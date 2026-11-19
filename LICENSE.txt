@@ -1,0 +1,63 @@
+利用条件 / Terms of Use
+星海鉄道アニメ制作ツール（レイヤー方式）
+Seihai Animation Production Tool (Layered Method)
+
+企画・監修：岡崎幸雄
+監督・制作：Muse と女子会
+Planning & supervision: Yukio Okazaki
+Direction & production: Muse and the Joshikai
+
+----------------------------------------------------------------
+日本語
+----------------------------------------------------------------
+
+このツールは、無料で配布されています。
+
+
+・このツールを、無料で使うことができます。
+・このツールを、無料でコピーして、他の人に渡す（再配布する）ことができます。
+・このツールを使って作った作品は、商用・非商用を問わず、自由に発表・販売
+できます。作品の権利は、作った方のものです。
+
+
+・このツールそのものを、売ることはできません。無料のまま、渡してください。
+
+
+・作品を発表するときは、できれば次のクレジットを入れてください（任意です）。
+　制作：女子会
+・このツールを使って作った作品であることを、どこかに書いていただけると
+　うれしいです（任意です）。
+
+
+・このツールは「現状のまま」で提供されます。動作の保証はしません。
+・このツールを使って生じた損害について、制作者は責任を負いません。
+・素材（絵・動画・音声）の用意は、使う方の責任で行ってください。他の人の
+　著作物を使う場合は、その権利にご注意ください。
+
+----------------------------------------------------------------
+English
+----------------------------------------------------------------
+
+This tool is distributed free of charge.
+
+[You may]
+- Use this tool free of charge.
+- Copy this tool and give it to others (redistribute it) free of charge.
+- Publish and sell works you create WITH this tool, commercially or
+non-commercially, as you wish. The rights to your works belong to you.
+
+[You may not]
+- Sell this tool itself. Please pass it on for free.
+
+[Request]
+- When you publish a work, we would appreciate a credit such as:
+"Production: Joshikai (Seihai Railway production team)"
+This is a request, not a condition.
+- We would be glad if you mention somewhere that the work was made with
+this tool. (Optional.)
+
+[Warranty]
+- This tool is provided "as is", without any warranty.
+- The makers are not responsible for any damage arising from its use.
+- Preparing the assets (art, video, audio) is your own responsibility.
+If you use works by other people, please respect their rights.
