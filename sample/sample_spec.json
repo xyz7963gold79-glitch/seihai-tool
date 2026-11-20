@@ -1,1 +1,0 @@
-{"fade_in":0.7,"fade_out":1.4,"output":"sample_output.mp4","scenes":[{"audio":"voice.mp3","background":"bg_station.png","duration":18,"layers":[{"scale":1.51,"video":"char_lira.mp4","x":-120,"y":78},{"scale":1.47,"video":"char_hoshika.mp4","x":300,"y":195}],"name":"駅でリラと出会う / Meeting Lira at the station"}],"title":"サンプル：駅でリラと出会う / Sample: Meeting Lira at the station"}
